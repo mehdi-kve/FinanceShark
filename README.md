@@ -1,2 +1,2 @@
 # Finance Shark
- Quickly find relevant financial data (in React TypeScript + .NET API) 
+ Quickly find relevant financial data (in React TypeScript(...Soon) + .NET API)  
